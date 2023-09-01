@@ -2,7 +2,7 @@
 # DYNAMIC: Script- Rotate Object
 
 # Features
-This Demo showcases my DYNAMIC: Script- Rotate Object
+This Demo showcases my DYNAMIC: Scripts- Rotate Object
 - Rotate GameObjects on the XYZ
 - Seperate Speeds for XYZ
 - Seperate Directions for XYZ
